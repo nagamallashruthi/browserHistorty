@@ -1,0 +1,40 @@
+.logo {
+  display: flex;
+  flex-wrap: wrap;
+}
+.domain-logo {
+  height: 30px;
+  width: 30px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.p {
+  font-family: 'roboto';
+  font-size: 15px;
+  color: black;
+  font-weight: bold;
+}
+.p1 {
+  color: #475569;
+  font-family: 'roboto';
+  font-size: 15px;
+  margin-left: 10px;
+}
+.li {
+  list-style-type: none;
+  display: flex;
+  border-radius: 10px;
+  margin: 20px;
+  justify-content: space-between;
+}
+.del {
+  height: 20px;
+  width: 20px;
+  background: none;
+  border: none;
+  margin-right: 40px;
+}
+.final {
+  display: flex;
+  justify-content: flex-end;
+}
